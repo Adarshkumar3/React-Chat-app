@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Adarshkumar3.github.io/React-Chat-app/static/css/main.f5e5b327.css",
+    "main.js": "/Adarshkumar3.github.io/React-Chat-app/static/js/main.7b9bf1be.js",
+    "static/media/logo.svg": "/Adarshkumar3.github.io/React-Chat-app/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/Adarshkumar3.github.io/React-Chat-app/index.html",
+    "main.f5e5b327.css.map": "/Adarshkumar3.github.io/React-Chat-app/static/css/main.f5e5b327.css.map",
+    "main.7b9bf1be.js.map": "/Adarshkumar3.github.io/React-Chat-app/static/js/main.7b9bf1be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5e5b327.css",
+    "static/js/main.7b9bf1be.js"
+  ]
+}
